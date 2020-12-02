@@ -20,4 +20,4 @@ var secondsInAYear = secondsInADay * minutesInAYear;
 document.write("The number of seconds in a year are " + secondsInAYear);
 document.write("<br>");
 document.write("<br>");
-document.write("created by Miranda Hinchliffe");
+document.write("Created by Miranda Hinchliffe");
